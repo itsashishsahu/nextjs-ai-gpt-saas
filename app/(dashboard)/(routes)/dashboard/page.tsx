@@ -1,9 +1,8 @@
-import { Button } from "@/components/ui/button";
 
 
 const DashboardPage = () => {
   return (
-    <Button variant={"destructive"}>Click me</Button>
+    <p>Dashboard Page (Protected) </p>
   )
 }
 
