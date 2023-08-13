@@ -1,6 +1,6 @@
 # Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma
 
-[ai-dashboard](https://github.com/itsashishsahu/nextjs-ai-gpt-saas/assets/53578967/30870528-5597-49a5-a0db-8d33ce10cac4)
+![ai-dashboard](https://github.com/itsashishsahu/nextjs-ai-gpt-saas/assets/53578967/58374d01-d629-4372-b9b6-afb2a3f82cd4)
 
 # [Live demo](https://www.itashishsahu.ai)
 
