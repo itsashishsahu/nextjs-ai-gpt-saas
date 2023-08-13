@@ -1,13 +1,13 @@
 # Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma
 
-This is a repository for a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma.
-
+[ai-dashboard](https://github.com/itsashishsahu/nextjs-ai-gpt-saas/assets/53578967/30870528-5597-49a5-a0db-8d33ce10cac4)
 [Live Demo](https://www.itashishsahu.ai)
 
 Features:
 
 - Tailwind design
-- Tailwind animations and effects
+- Tailwind animations and effects!
+
 - Full responsiveness
 - Clerk Authentication (Email, Google, 9+ Social Logins)
 - Client form validation and handling using react-hook-form
